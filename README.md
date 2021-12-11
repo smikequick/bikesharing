@@ -75,4 +75,6 @@ Second, what marketing techniques can be used to convert customers to subscriber
 
 ![Number of Rides by Customer Type](https://user-images.githubusercontent.com/87885677/145687527-f88c5a10-c70e-41ec-a96a-9e824d174bc3.png)
 
-Tableau Workbook located here: https://public.tableau.com/views/NYC_Citibike_Challenge_16392494994830/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link 
+<br>
+
+[Link to dashboard](https://public.tableau.com/views/NYC_Citibike_Challenge_16392494994830/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link "Link to Tableau Dashboard") 
